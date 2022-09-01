@@ -1,8 +1,9 @@
 # LVO-SLAM
 LiDAR-Visual Odometry based Simulatenous Localization and Mapping
 
->> Dependencies:
+> Ensure Matlab has the following dependencies:
 1. [Computer Vision Toolbox](https://se.mathworks.com/help/vision/examples.html?category=index&exampleproduct=all&s_tid=CRUX_lftnav)
+2. [ROS Toolbox](https://se.mathworks.com/help/ros/index.html?searchHighlight=ros%20toolbox&s_tid=srchtitle_ros%2520toolbox_1)
 ------
 > Step 1:
   Download the git repo in your desired working directory
