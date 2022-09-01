@@ -2,7 +2,7 @@
 LiDAR-Visual Odometry based Simulatenous Localization and Mapping
 
 >> Dependencies:
-1. [computer Vision Toolbox](https://se.mathworks.com/help/vision/examples.html?category=index&exampleproduct=all&s_tid=CRUX_lftnav)
+1. [Computer Vision Toolbox](https://se.mathworks.com/help/vision/examples.html?category=index&exampleproduct=all&s_tid=CRUX_lftnav)
 ------
 > Step 1:
   Download the git repo in your desired working directory
